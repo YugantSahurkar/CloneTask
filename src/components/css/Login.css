@@ -1,0 +1,142 @@
+.fa {
+    color: rgb(8, 8, 74);
+    margin-right: 20px;
+    font-size: 20px;
+  }
+  
+  .main1 {
+    position: absolute;
+    top: 151px;
+    left: 30px;
+    flex-direction: column;
+    align-items: center;
+    height: 433px;
+    background-color: white;
+    border: 2px solid black;
+    width: 45%;
+    border-radius: 30px;
+  }
+  
+  .main {
+    position: absolute;
+    top: 151px;
+    right: 30px;
+    flex-direction: column;
+    align-items: center;
+    height: 433px;
+    background-color: #073763;
+    width: 45%;
+    border-radius: 30px;
+  }
+  .container {
+    position: relative;
+    left: 32px;
+    top: 23px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    /* flex-direction: column; */
+    text-align: center;
+    width: 500px;
+    height: 350px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
+    margin: 25px;
+    margin-left: 60px;
+  }
+  .input {
+    margin-bottom: 14px;
+    border-radius: 15px;
+  margin-top: 5px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .Email {
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 435px;
+    background-color: white;
+    border: 1 px solid gray;
+    margin-bottom: 15px;
+    border-radius: 7px;
+  }
+  
+  .password {
+    background-color: white;
+    display: inline-block;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 435px;
+    margin-bottom: 15px;
+    border: 1 px solid gray;
+  
+    border-radius: 7px;
+  }
+  
+  .btn {
+    background-color: #073763;
+    display: inline-block;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 160px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 18px;
+    border: none;
+  }
+  .frgt {
+    position: absolute;
+    top: 175px;
+    left: 370px;
+    color: #073763;
+  }
+  
+  .frgt:hover {
+    text-decoration: underline;
+  }
+  .spann {
+    position: absolute;
+    left: 17px;
+    margin-bottom: 5px;
+  }
+  .spann1 {
+    position: absolute;
+    left: 17px;
+    top: 100px;
+  }
+  
+  .asdfghjkl {
+    font-weight: bold;
+    font-size: large;
+    color: rgb(8, 8, 74);
+    text-decoration: none;
+  }
+  .gg {
+    position: relative;
+    left: 31px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 40px;
+  }
+  .head {
+    position: relative;
+    left: 88px;
+    padding: 11px;
+    font-size: 23px;
+    width: 400px;
+    background-color: #073763;
+    color: white;
+    border-radius: 17px;
+    margin-left: 50px;
+    text-align: center;
+  }
+  .main{
+    margin-top: 100px;
+  }
+  .main1{
+    margin-top: 100px;
+  }
